@@ -1,3 +1,12 @@
+
+
+
+ Deploy complete!
+
+Project Console: https://console.firebase.google.com/project/netflix-clone-7afcd/overview
+Hosting URL: https://netflix-clone-7afcd.web.app
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
