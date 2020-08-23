@@ -22,7 +22,7 @@ function Banner() {
     return () => {};
   }, []);
 
-  console.log(movie);
+  
 
   function truncate(str,n){
 
